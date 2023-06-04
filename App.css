@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(221, 222, 224);
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    box-shadow: inset;
+display:inline-block ;
+margin: 20px;
+}
+.devname{
+    margin:40px ;
+    text-align: center;
+    font-family:monospace;
+font-size: 50px;
+}
+.topic{
+    text-align: center;
+    margin:10px ;
+
+}
